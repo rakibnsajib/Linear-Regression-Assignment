@@ -1,2 +1,2 @@
 # Linear Regression Assignment
-![Question](question.jpg)
+![Question](Question.jpg)
